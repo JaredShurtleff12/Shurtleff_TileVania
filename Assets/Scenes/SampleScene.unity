@@ -203,7 +203,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.672087, y: 1}
+    m_SensorSize: {x: 2.1049383, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -581,7 +581,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.672087, y: 1}
+    m_SensorSize: {x: 2.1049383, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1000,7 +1000,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.2360744, y: 1.3301727, z: -10}
+  m_LocalPosition: {x: -5.504669, y: 1.3301231, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23052,7 +23052,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.672087, y: 1}
+    m_SensorSize: {x: 2.1049383, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -26894,10 +26894,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5416126960921441607, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
-      propertyPath: fljumpSpeed
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 7266644848109016024, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -26946,21 +26942,5 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ginger (Player)
       objectReference: {fileID: 0}
-    - target: {fileID: 7266644848109016027, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 7932758688191924576, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
-      propertyPath: m_GravityScale
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 7932758688191924576, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8818516725866361591, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: 60e9dbf78506d194891f01cf62ab781a, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bb2058ff42588964aaa3a595fc0abc5a, type: 3}
